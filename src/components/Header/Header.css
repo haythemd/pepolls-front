@@ -1,0 +1,31 @@
+.headerCard{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 70px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+
+
+/* Header.css */
+.header {
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    /* Add any other styles you want for the header */
+  }
+
+
+  .logo{
+    position: absolute;
+    top: 13px;
+    left: 20px;
+    width: 143px;
+    height: 41px;
+    opacity: 1;
+  }
+  

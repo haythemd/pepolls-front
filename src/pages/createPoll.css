@@ -1,0 +1,465 @@
+
+
+.cp {
+    position: absolute;
+    top: 100px;
+    left: 668px;
+    width: 90px;
+    height: 27px;
+    text-align: left;
+    font: normal normal 600 20px/36px Poppins;
+    white-space: nowrap;
+    letter-spacing: -0.6px;
+    font-weight: 700; /* Use an available font weight value */
+    color: #1A2552;
+    opacity: 1;
+  }
+
+  .mo {
+    position: absolute;
+    top: 875px;
+    left: 668px;
+    width: 90px;
+    height: 27px;
+    text-align: left;
+    font: normal normal 600 20px/36px Poppins;
+    white-space: nowrap;
+    letter-spacing: -0.6px;
+    font-weight: 700; /* Use an available font weight value */
+    color: #1A2552;
+    opacity: 1;
+  }
+  
+
+  .im{
+    position: absolute;
+    top: 179px;
+    left: 678px;
+    width: 40px;
+    height: 40px;
+    /* UI Properties */
+        opacity: 1;
+    
+  }
+
+
+  .at{
+    position: absolute;
+    top: 249px;
+    left: 688px;
+    width: 540px;
+    height: 50px;
+    /* UI Properties */
+    text-align: left;
+    font-size:  18px ;
+    letter-spacing: 0px;
+    border: none;
+    opacity: 1;
+  }
+
+
+  .at:placeholder-shown{
+    color: #8D92A9;
+  }
+  
+
+  .txt{
+    position: absolute;
+    top: 629px;
+    left: 688px;
+    width: 260px;
+    height: 16px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 12px Poppins;
+    letter-spacing: 0px;
+    color: #1A2552;
+    opacity: 1;
+    white-space: nowrap;
+  }
+
+
+  .txt2{ 
+    position: absolute;
+    top: 731px;
+    left: 678px;
+    width: 101px;
+    height: 19px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 14px/19px Poppins;
+    letter-spacing: 0px;
+    color: #1A2552;
+    opacity: 1;
+    white-space: nowrap
+  }
+
+
+  .minicard1{
+    position: absolute;
+    top: 944px;
+    left: 710px;
+    width: 500px;
+    height: 60px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 1px 5px #1A25520D;
+    border-radius: 10px;
+    opacity: 1;
+  }
+
+  .minicard2{
+    position: absolute;
+    top: 1014px;
+    left: 710px;
+    width: 500px;
+    height: 60px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 1px 5px #1A25520D;
+    border-radius: 10px;
+    opacity: 1;
+  }
+
+  .minicard3{
+    position: absolute;
+    top: 1084px;
+    left: 710px;
+    width: 500px;
+    height: 60px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 1px 5px #1A25520D;
+    border-radius: 10px;
+    opacity: 1;
+  }
+
+  .react1{
+    position: absolute;
+    top: 656px;
+    left: 678px;
+    width: 100px;
+    height: 50px;
+    /* UI Properties */
+    background: #F7F8F9 0% 0% no-repeat padding-box;
+    border-radius: 30px;
+    opacity: 1;
+  }
+
+  .react1:hover{
+    cursor: pointer;
+    background: #979797 0% 0% no-repeat padding-box;
+  }
+  
+
+  
+  .react2{
+    position: absolute;
+    top: 656px;
+    left: 783px;
+    width: 100px;
+    height: 50px;
+    /* UI Properties */
+    background: #F7F8F9 0% 0% no-repeat padding-box;
+    border-radius: 30px;
+    opacity: 1;
+  }
+
+  .react2:hover{
+    cursor: pointer;
+    background: #979797 0% 0% no-repeat padding-box;
+  }
+
+
+  
+  .react3{
+    position: absolute;
+    top: 656px;
+    left: 888px;
+    width: 100px;
+    height: 50px;
+    /* UI Properties */
+    background: #F7F8F9 0% 0% no-repeat padding-box;
+    border-radius: 30px;
+    opacity: 1;
+  }
+
+  .react3:hover{
+    cursor: pointer;
+    background: #979797 0% 0% no-repeat padding-box;
+  }
+
+
+
+  .selection1{
+    position: absolute;
+    top: 179px;
+    left: 860px;
+    width: 118px;
+    height: 40px;
+    /* UI Properties */
+    border-radius: 20px;
+    opacity: 1;
+    font: normal normal 600 14px/19px Poppins;
+  }
+
+  .selection2{
+    position: absolute;
+    top: 139px;
+    left: 728px;
+    width: 118px;
+    height: 40px;
+    border-radius: 20px;
+    opacity: 1;
+    font: normal normal 600 14px/19px Poppins;
+  }
+
+
+  .like1{
+    position: absolute;
+    top: 661px;
+    left: 683px;
+    width: 40px;
+    height: 40px;
+   
+    opacity: 1;
+
+  }
+
+  .like1:hover{
+    cursor: pointer;
+  }
+
+  .like1:hover ~ .react1 {
+    background: #979797; /* Set the desired background color when hovering over .like */
+  }
+
+
+
+  .dislike1{
+    position: absolute;
+    top: 661px;
+    left: 733px;
+    width: 40px;
+    height: 40px;
+    opacity: 1;
+
+  }
+
+  .dislike1:hover{
+    cursor: pointer;
+    
+  }
+
+  .dislike1:hover ~ .react1 {
+    background: #979797 0% 0% no-repeat padding-box;
+  }
+
+
+
+  .happy{
+    position: absolute;
+    top: 661px;
+    left: 788px;
+    width: 40px;
+    height: 40px;
+    opacity: 1;
+
+  }
+
+  .happy:hover{
+    cursor: pointer;
+  }
+
+  .happy:hover ~ .react2 {
+    background: #979797 0% 0% no-repeat padding-box;
+  }
+
+  .sad{
+    position: absolute;
+    top: 661px;
+    left: 838px;
+    width: 40px;
+    height: 40px;
+    opacity: 1;
+
+  }
+
+  .sad:hover{
+    cursor: pointer;
+  }
+
+  .sad:hover ~ .react2 {
+    background: #979797 0% 0% no-repeat padding-box;
+  }
+
+  .pour{
+    position: absolute;
+    top: 661px;
+    left: 893px;
+    width: 40px;
+    height: 40px;
+    opacity: 1;
+  }
+
+  .pour:hover{
+    cursor: pointer;
+  }
+
+  .pour:hover ~ .react3{
+    background: #979797 0% 0% no-repeat padding-box;
+  }
+
+  .contre{
+    position: absolute;
+    top: 661px;
+    left: 943px;
+    width: 40px;
+    height: 40px;
+    opacity: 1;
+
+  }
+
+  .contre:hover{
+    cursor: pointer;
+  }
+
+  .contre:hover ~ .react3{
+    background: #979797 0% 0% no-repeat padding-box;
+  }
+
+
+
+  .uploadim{
+    position: absolute;
+    top: 721px;
+    left: 814px;
+    width: 40px;
+    height: 40px;
+    opacity: 1;
+  }
+
+  .uploadim:hover{
+    cursor: pointer;
+  }
+
+
+  .container{
+    position: relative;
+  }
+
+
+
+  .txt5{
+    position: absolute;
+    top: 964px;
+    left: 775px;
+    width: 163px;
+    height: 19px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 14px/22px Poppins;
+    letter-spacing: 0px;
+    color: #1A2552;
+    opacity: 1;
+    white-space: nowrap;
+  }
+
+  .txt6{
+    position: absolute;
+    top: 1034px;
+    left: 775px;
+    width: 163px;
+    height: 19px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 14px/22px Poppins;
+    letter-spacing: 0px;
+    color: #1A2552;
+    opacity: 1;
+    white-space: nowrap;
+
+  }
+
+  .txt7{
+    position: absolute;
+    top: 1104px;
+    left: 775px;
+    width: 163px;
+    height: 19px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 14px/22px Poppins;
+    letter-spacing: 0px;
+    color: #1A2552;
+    opacity: 1;
+    white-space: nowrap;
+
+  }
+
+
+
+  .tog1{
+    position: absolute;
+    top: 955px;
+    left: 1158px;
+    width: 46px;
+    height: 28px;
+
+    border-radius: 14px;
+    opacity: 1;
+
+  }
+
+  .tog2{
+    position: absolute;
+    top: 1025px;
+    left: 1158px;
+    width: 46px;
+    height: 28px;
+
+    border-radius: 14px;
+    opacity: 1;
+
+  }
+
+
+  .tog3{
+    position: absolute;
+    top: 1095px;
+    left: 1158px;
+    width: 46px;
+    height: 28px;
+   
+    border-radius: 14px;
+    opacity: 1;
+  }
+
+
+  .maso1{
+    position: absolute;
+    top: 962px;
+    left: 728px;
+    width: 25px;
+    height: 25px;
+    opacity: 1;
+  }
+
+
+  .maso2{
+    position: absolute;
+    top: 1029px;
+    left: 725px;
+    width: 33px;
+    height: 33px;
+    opacity: 1;
+  }
+
+  .maso3{
+    position: absolute;
+    top: 1103px;
+    left: 732px;
+    width: 20px;
+    height: 20px;
+    opacity: 1;
+  }

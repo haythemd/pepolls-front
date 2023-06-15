@@ -1,0 +1,24 @@
+.card4{
+    position: absolute;
+    top: 270px;
+    left: 648px;
+    width: 625px;
+    height: 862px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 15px;
+    opacity: 1;
+}
+
+
+.card5{
+    position: absolute;
+    top: 80px;
+    left: 648px;
+    width: 625px;
+    height: 180px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 15px;
+    opacity: 1;
+}

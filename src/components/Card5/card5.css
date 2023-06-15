@@ -1,0 +1,11 @@
+.card5{
+    position: absolute;
+    top: 333px;
+    left: 690px;
+    width: 540px;
+    height: 383px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 15px;
+    opacity: 1;
+}

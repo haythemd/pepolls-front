@@ -1,0 +1,396 @@
+.ima{
+    position: absolute;
+    top: 300px;
+    left: 678px;
+    width: 40px;
+    height: 40px;
+    /* UI Properties */
+        opacity: 1;
+    
+  }
+
+  .reacta{
+    position: absolute;
+    top: 991px;
+    left: 906px;
+    width: 110px;
+    height: 55px;
+    /* UI Properties */
+    background: #F7F8F9 0% 0% no-repeat padding-box;
+    border-radius: 30px;
+    opacity: 1;
+  }
+
+
+  .pha{
+    position: absolute;
+    top: 436px;
+    left: 648px;
+    width: 625px;
+    height: 625px;
+    /* UI Properties */
+    background: #1A2552 0% 0% no-repeat padding-box;
+    opacity: 1;
+  }
+
+
+  .txt4a{
+    position: absolute;
+    top: 361px;
+    left: 668px;
+    width: 585px;
+    height: 69px;
+    text-align: left;
+    font: normal normal 600 14.5px/19px Poppins;
+    letter-spacing: 0px;
+    color: #1A2552;
+    opacity: 1;
+    
+  }
+
+  .likea{
+    position: absolute;
+    top: 997px;
+    left: 911px;
+    width: 45px;
+    height: 45px;
+   
+    opacity: 1;
+
+  }
+
+
+  .dislikea{
+    position: absolute;
+    top: 997px;
+    left: 966px;
+    width: 45px;
+    height: 45px;
+    opacity: 1;
+
+  }
+
+
+  .txt8a{
+    position: absolute;
+    top: 306px;
+    left: 728px;
+    width: 113px;
+    height: 21px;
+    /* UI Properties */
+    text-align: left;
+    letter-spacing: 0px;
+    font: normal normal 600 14px/18px Poppins;
+    color: #1A2552;
+    opacity: 1;
+    white-space: nowrap;
+  }
+
+  .txt9a{
+    position: absolute;
+    top: 324px;
+    left: 728px;
+    width: 99px;
+    height: 16px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 12px/16px Poppins;
+    letter-spacing: 0px;
+    color: #8D92A9;
+    opacity: 1;
+    white-space: nowrap;
+
+  }
+
+
+  .moz1a{
+    position: absolute;
+    top: 1081px;
+    left: 681px;
+    width: 25px;
+    height: 25px;
+    /* UI Properties */
+    
+    opacity: 1;
+
+  }
+
+
+  .moz2a{
+    position: absolute;
+    top: 1078px;
+    left: 828px;
+    width: 36px;
+    height: 36px;
+    /* UI Properties */
+    
+    opacity: 1;
+
+  }
+
+  .moz3a{
+    position: absolute;
+    top: 1084px;
+    left: 991px;
+    width: 22px;
+    height: 22px;
+    opacity: 1;
+
+  }
+
+
+  .txt10a{
+    position: absolute;
+    top: 1088px;
+    left: 708px;
+    width: 23px;
+    height: 19px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 15px/18px Poppins;
+    letter-spacing: 0px;
+    color: #1A2552;
+    opacity: 1;
+    white-space: nowrap;
+
+  }
+
+  .txt11a{
+    position: absolute;
+    top: 1088px;
+    left: 863px;
+    width: 23px;
+    height: 19px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 15px/18px Poppins;
+    letter-spacing: 0px;
+    color: #1A2552;
+    opacity: 1;
+    white-space: nowrap;
+  }
+
+  .txt12a{
+    position: absolute;
+    top: 1088px;
+    left: 1020px;
+    width: 23px;
+    height: 19px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 15px/18px Poppins;
+    letter-spacing: 0px;
+    color: #1A2552;
+    opacity: 1;
+    white-space: nowrap;
+  }
+  
+
+
+  .mazmouza{
+    position: absolute;
+    top: 323px;
+    left: 846px;
+    width: 19px;
+    height: 19px;
+    /* UI Properties */
+    opacity: 1;
+  }
+
+
+  .reactiona{
+    position: absolute;
+    top: 1071px;
+    left: 1110px;
+    width: 146px;
+    height: 50px;
+    background: #F7F8F9 0% 0% no-repeat padding-box;
+    border: 1px solid #F0F2F4;
+    border-radius: 25px;
+    opacity: 1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+
+
+ .txt13a{
+  position: absolute;
+  top: 1083px;
+  left: 1155px;
+  width: 28px;
+  height: 16px;
+  /* UI Properties */
+  text-align: right;
+  font:  22px/26px Poppins;
+  font-weight: 600;
+  letter-spacing: 0px;
+  color: #383838;
+  opacity: 1;
+  
+ }
+
+
+ .txt14a{
+  position: absolute;
+  top: 291px;
+  left: 1224px;
+  width: 25px;
+  height: 8px;
+  opacity: 1;
+  color: #1A2552;
+  white-space: nowrap;
+  font-size: 28px;
+ 
+
+ }
+
+ .txt14a:hover{
+  cursor: pointer;
+ }
+
+ .txt14a:hover~circle{
+  background-color: #F0F2F4;
+ }
+
+
+ .txt8b{
+    position: absolute;
+    top: 113px;
+    left: 753px;
+    width: 120px;
+    height: 24px;
+    text-align: left;
+    font: normal normal 600 18px/36px Poppins;
+    letter-spacing: -0.54px;
+    color: #1A2552;
+    opacity: 1;
+    white-space: nowrap;
+ }
+
+ .txt9b{
+    position: absolute;
+    top: 140px;
+    left: 753px;
+    width: 146px;
+    height: 19px;
+    text-align: left;
+    font: normal normal 600 14px/19px Poppins;
+    letter-spacing: 0px;
+    color: #6774aa;
+    opacity: 1;
+    white-space: nowrap;
+
+ }
+
+
+.editb{
+    position: absolute;
+    top: 110px;
+    left: 1048px;
+    width: 200px;
+    height: 50px;
+    /* UI Properties */
+    background: #F7F8F9 0% 0% no-repeat padding-box;
+    border: 1px solid #F7F8F9;
+    border-radius: 25px;
+    opacity: 1;
+}
+
+.imb{
+    position: absolute;
+    top: 100px;
+    left: 673px;
+    width: 70px;
+    height: 70px;
+    /* UI Properties */
+        opacity: 1;
+    
+  }
+
+
+  .verif{
+    position: absolute;
+    top: 150px;
+    left: 723px;
+    width: 20px;
+    height: 20px;
+    /* UI Properties */
+    opacity: 1;
+  }
+
+
+  .editbb{
+    position: absolute;
+    top: 125px;
+    left: 1103px;
+    width: 90px;
+    height: 19px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal 600 14px/20px Poppins;
+    letter-spacing: 0px;
+    color: #1A2552;
+    opacity: 1;
+    white-space: nowrap;
+  }
+
+.pol{
+    position: absolute;
+    top: 210px;
+    left: 848px;
+    width: 28px;
+    height: 19px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal 600 14px/18px Poppins;
+    letter-spacing: 0px;
+    color: #1A2552;
+    opacity: 1;
+}
+
+.vot{
+    position: absolute;
+    top: 210px;
+    left: 1031px;
+    width: 34px;
+    height: 19px;
+    text-align: center;
+    font: normal normal 600 14px/18px Poppins;
+    letter-spacing: 0px;
+    color: #1A2552;
+    opacity: 1;
+
+}
+
+.polnum{
+    position: absolute;
+    top: 185px;
+    left: 857px;
+    width: 10px;
+    height: 24px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal 600 18px/24px Poppins;
+    letter-spacing: 0px;
+    color: #1A2552;
+    opacity: 1;
+
+}
+
+.votnum{
+    position: absolute;
+    top: 185px;
+left: 1043px;
+width: 10px;
+height: 24px;
+/* UI Properties */
+text-align: center;
+font: normal normal 600 18px/24px Poppins;
+letter-spacing: 0px;
+color: #1A2552;
+opacity: 1;
+
+}
+

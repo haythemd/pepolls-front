@@ -1,0 +1,144 @@
+.sidecard{
+    position: fixed;
+    top: 71px;
+    left: 0px;
+    width: 250px;
+    height: 100vh;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+
+.profili{
+    position: fixed;
+    top: 91px;
+    left: 10px;
+    width: 230px;
+    height: 65px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #FFFFFF;
+    border-radius: 15px;
+    opacity: 1;
+}
+
+.profili:hover{
+    background-color: #F7F8F9;
+    cursor: pointer;
+}
+
+
+
+
+.placi{
+    position: fixed;
+    top: 241px;
+    left: 10px;
+    width: 230px;
+    height: 60px;
+    /* UI Properties */
+    background: #ffffff 0% 0% no-repeat padding-box;
+    border: 1px solid #ffffff;
+    border-radius: 15px;
+    opacity: 1;
+}
+
+.placi:hover{
+    cursor: pointer;
+    background-color: #F7F8F9;
+
+}
+
+
+.explori{
+    position: fixed;
+    top: 166px;
+    left: 10px;
+    width: 230px;
+    height: 60px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #ffffff;
+    border-radius: 15px;
+    opacity: 1;
+    
+}
+
+.explori:hover{
+    background-color: #F7F8F9;
+    cursor: pointer;
+}
+
+
+.logouti{
+    position: fixed;
+    top: 336px;
+    left: 10px;
+    width: 230px;
+    height: 60px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 15px;
+    opacity: 1;
+
+}
+
+
+.logouti:hover{
+    background-color: #F7F8F9;
+    cursor: pointer;
+}
+
+.line{
+    position: fixed;
+    top: 318px;
+    left: 0.5px;
+    width: 250px;
+    height: 0px;
+    /* UI Properties */
+    border: 1px solid #F7F8F9;
+    opacity: 1;
+}
+
+
+.exp{
+    position: fixed;
+    top: 188px;
+    left: 30px;
+    width: 20px;
+    height: 20px;
+    opacity: 1;
+}
+
+
+.profilo{
+    position: fixed;
+    top: 104px;
+    left: 20px;
+    width: 40px;
+    height: 40px;
+    /* UI Properties */
+    opacity: 1;
+}
+
+
+.logout{
+    position: fixed;
+    top: 353px;
+    left: 23px;
+    width: 30px;
+    height: 23px;
+    opacity: 1;
+
+}
+
+
+.createpoll{
+    position: fixed;
+    top: 263px;
+    left: 30px;
+    width: 20px;
+    height: 20px;
+    /* UI Properties */
+    opacity: 1;
+}

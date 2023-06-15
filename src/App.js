@@ -1,23 +1,27 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { CreatePoll, Explore,Profil ,Login, CreateAccount,ContinueCreateAccount,Edit,ResetPassword,Setnewpassword} from './pages/index'; // Update the import statement
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+       <BrowserRouter>
+          <Routes>
+            <Route path='/explore' element={<Explore/>} />
+            <Route path='CreatePoll' element={<CreatePoll />} />
+            <Route path='/profil' element={<Profil/>} />
+            <Route path='/CreateAccount' element={<CreateAccount/>}/>
+            <Route path='/continueCreateAccount' element={<ContinueCreateAccount/>}/>
+            <Route path='/' element={<Login/>} />
+            <Route path='/login' element={<Login/>} />
+            <Route path='/Edit' element={<Edit/>} />
+            <Route path='/resetpassword' element={<ResetPassword/>} />
+            <Route path='/setnewpassword' element={<Setnewpassword/>} />
+            
+          </Routes>
+        </BrowserRouter>
     </div>
   );
 }

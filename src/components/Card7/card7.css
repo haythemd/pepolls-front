@@ -1,0 +1,11 @@
+.card7{
+    position: absolute;
+    top: 194px;
+    left: 690px;
+    width: 540px;
+    height: 660px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 15px;
+    opacity: 1;
+}

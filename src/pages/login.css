@@ -1,0 +1,59 @@
+.inp1 {
+    position: absolute;
+    top: 410px;
+    left: 702px;
+    width: 500px;
+    height: 50px;
+    background: #F7F8F9;
+    border-radius: 15px;
+    opacity: 1;
+    border: none;
+    font-family: poppins;
+    font-weight: 600;
+    padding-left: 15px;
+  }
+  
+  .inp2 {
+    position: absolute;
+    top: 471px;
+    left: 702px;
+    width: 500px;
+    height: 50px;
+    background: #F7F8F9;
+    border: none;
+    border-radius: 15px;
+    opacity: 1;
+    font-family: poppins;
+    font-weight: 600;
+    padding-left: 15px;
+  }
+
+
+  
+  .logtxt1{
+    position: absolute;
+    top: 622px;
+    left: 833px;
+    width: 222px;
+    height: 17px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal 600 13px/17px Poppins;
+    letter-spacing: 0px;
+    opacity: 1;
+    white-space: nowrap;
+  }
+
+  .logtxt2{
+    position: absolute;
+    top: 662px;
+    left: 847px;
+    width: 204px;
+    height: 17px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal 600 13px/17px Poppins;
+    letter-spacing: 0px;
+    opacity: 1;
+    white-space: nowrap;
+  }
